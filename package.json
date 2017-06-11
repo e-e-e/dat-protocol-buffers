@@ -1,0 +1,17 @@
+{
+  "name": "dat-protocol-buffers",
+  "version": "1.0.0",
+  "description": "A convenience wrapper for encoding and decoding dat common protocol buffers defined in the dat white paper",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Benjamin Forster",
+  "license": "ISC",
+  "dependencies": {
+    "protocol-buffers": "^3.2.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}

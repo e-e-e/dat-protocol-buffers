@@ -1,0 +1,4 @@
+message Header {
+  required string type = 1;
+  optional bytes content = 2;
+}
