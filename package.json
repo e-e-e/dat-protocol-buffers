@@ -9,10 +9,16 @@
   "author": "Benjamin Forster",
   "license": "ISC",
   "dependencies": {
+    "brfs": "^1.4.3",
     "protocol-buffers": "^3.2.1"
   },
   "devDependencies": {
     "tape": "^4.6.3"
+  },
+  "browserify": {
+    "transform": [
+      "brfs"
+    ]
   },
   "repository": {
     "type": "git",
