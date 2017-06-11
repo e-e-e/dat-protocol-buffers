@@ -1,6 +1,6 @@
 {
   "name": "dat-protocol-buffers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A convenience wrapper for encoding and decoding common dat protocol buffers defined in the dat white paper",
   "main": "index.js",
   "scripts": {
