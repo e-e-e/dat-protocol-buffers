@@ -1,5 +1,7 @@
 # dat protocol buffers
 
+[![Build Status](https://travis-ci.org/e-e-e/dat-protocol-buffers.svg?branch=master)](https://travis-ci.org/e-e-e/dat-protocol-buffers)
+
 This is a convenience implementation of the protocol buffers for the [dat protocol](www.datproject.org) as defined in the [dat white paper](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf).
 
 Although this package can be used to decode or encode any dat protocol buffers. It is particularly useful for decoding download events from [dat-node](https://github.com/datproject/dat-node) or [hyperdrive](https://github.com/mafintosh/hyperdrive).
