@@ -14,7 +14,7 @@ var want = require('./messages/want')
 module.exports = {
   Cancel: cancel.Cancel,
   Data: data.Data,
-  Handshake: handshake.Hanshake,
+  Handshake: handshake.Handshake,
   Have: have.Have,
   Header: header.Header,
   Node: node.Node,
@@ -24,5 +24,5 @@ module.exports = {
   Status: status.Status,
   Unhave: unhave.Unhave,
   Unwant: unwant.Unwant,
-  Want: want.Want,
+  Want: want.Want
 }
