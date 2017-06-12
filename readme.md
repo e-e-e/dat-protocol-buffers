@@ -1,6 +1,6 @@
 # dat protocol buffers
 
-[![Build Status](https://travis-ci.org/e-e-e/dat-protocol-buffers.svg?branch=master)](https://travis-ci.org/e-e-e/dat-protocol-buffers)
+[![Build Status](https://travis-ci.org/e-e-e/dat-protocol-buffers.svg?branch=master)](https://travis-ci.org/e-e-e/dat-protocol-buffers) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 This is a convenience implementation of the protocol buffers for the [dat protocol](www.datproject.org) as defined in the [dat white paper](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf).
 
